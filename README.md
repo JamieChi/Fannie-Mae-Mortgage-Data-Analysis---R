@@ -19,9 +19,9 @@ single-family mortgage-backed securities (MBS).
 
 
 ## Data
-The two datasets are small samples randomly drawn from the data
-for specific periods, representing approximately 17% and 12% of the entire data for Q4 2007 and Q4 2019,
-respectively. 
+The two datasets are small samples randomly drawn from the data for specific periods, representing approximately 
+17% and 12% of the entire data for Q4 2007 and Q4 2019, respectively.
+Data Source: Fannie Mae’s data portal
 
 • “2007Q4.rds” contains information on 50,000 fixed-rate single-family amortizing loans with terms of
 30 years or less. These loans were either owned or guaranteed by Fannie Mae during the fourth quarter
@@ -32,4 +32,8 @@ file, but specific to the fourth quarter of 2019 – the last quarter before the
 
 
 ## Analysis
-I worked with a smaller subset of the data obtained from Fannie Mae’s data portal. 
+I analyzed the differences in loans owned by Fannie Mae between 2007 and 2019, focusing on the changes in the 
+default rates, borrower credit scores, property occupancy status, debt-to-income ratios, and interest rates. 
+Based on the two datasets in 2007 and 2019, I found that the default rate for loans was 9.02% in 2007, during 
+the mortgage crisis, while in 2019, the default rate had significantly decreased to 0.2%, indicating a more 
+stable period.
