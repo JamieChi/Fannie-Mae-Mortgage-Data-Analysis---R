@@ -21,7 +21,7 @@ single-family mortgage-backed securities (MBS).
 ## Data
 The two datasets are small samples randomly drawn from the data for specific periods, representing approximately 
 17% and 12% of the entire data for Q4 2007 and Q4 2019, respectively.
-Data Source: Fannie Mae’s data portal
+(Data Source: Fannie Mae’s data portal)
 
 • “2007Q4.rds” contains information on 50,000 fixed-rate single-family amortizing loans with terms of
 30 years or less. These loans were either owned or guaranteed by Fannie Mae during the fourth quarter
