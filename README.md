@@ -17,8 +17,6 @@ By mid-2012, it had restored profitability and regained a dominant in the market
 an annual net income of $13 billion1, and held the largest market share, accounting for 40% of the issuance of
 single-family mortgage-backed securities (MBS).
 
-## Analysis
-I worked with a smaller subset of the data obtained from Fannie Mae’s data portal. 
 
 ## Data
 The two datasets are small samples randomly drawn from the data
@@ -31,3 +29,7 @@ of 2007, a period marked by a significant increase in loan defaults5 at Fannie M
 
 • “2019Q4.rds” includes information on 50,000 Fannie Mae loans of the same type as the previous data
 file, but specific to the fourth quarter of 2019 – the last quarter before the onset of COVID.
+
+
+## Analysis
+I worked with a smaller subset of the data obtained from Fannie Mae’s data portal. 
